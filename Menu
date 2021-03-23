@@ -8,6 +8,10 @@
 </channel>
 <channel>
 <name>[COLOR blue]FILMES[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu086RqwGEMGno4cxDO7G7gkZVDLkNpfSBQ&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/math20122004/Addon/main/Filmes</externallink>
+<info>[COLOR green]•[/COLOR][COLOR red]Esse addon é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados[/COLOR]
+[COLOR green]•[/COLOR][COLOR blue]TODO O CRÉDITO A redecanais.app[/COLOR]
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvYQqqNYmOV4SLu4s8iwdD3W6Y-UF4wqhJw&usqp=CAU.jpg</fanart>
 </channel>
 </channels>
