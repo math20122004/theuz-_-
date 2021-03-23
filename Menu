@@ -6,4 +6,8 @@
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgGowlCE-T1pw2Gky7QmW5RXr7R-YcvAuEw&usqp=CAU.jpg</fanart>
 <info>[COLOR red]•Esse addon é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados[/COLOR]</info>
 </channel>
+<channel>
+<name>[COLOR blue]FILMES[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/math20122004/Addon/main/Filmes</externallink>
+</channel>
 </channels>
