@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR]●[/COLOR][COLOR blue]TV AO VIVO[/COLOR]</name>
+<name>[COLOR green]●[/COLOR][COLOR white] TV AO VIVO[/COLOR]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozZJzLroZkkMVWpim5EathIw1RzUquKxESw&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/math20122004/theuz-_-/main/Canais%20Tv%20(FILMES%20E%20SERIES)</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgGowlCE-T1pw2Gky7QmW5RXr7R-YcvAuEw&usqp=CAU.jpg</fanart>
@@ -8,11 +8,11 @@
 [COLOR red]●[/COLOR][COLOR white]Não nós responsabilizamos por vendas de terceiros.[/COLOR]</info>
 </channel>
 <channel>
-<name>[COLOR green]●[/COLOR][COLOR blue]FILMES[/COLOR]</name>
+<name>[COLOR green]●[/COLOR][COLOR white]FILMES[/COLOR]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu086RqwGEMGno4cxDO7G7gkZVDLkNpfSBQ&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/math20122004/Addon/main/Filmes</externallink>
-<info>[COLOR green]●[/COLOR][COLOR white]FILMES DUBLADOS[/COLOR]
-[COLOR green]●[/COLOR][COLOR red]TODO O CRÉDITO A redecanais.cloud[/COLOR]</info>
+<info>[COLOR red]●[/COLOR][COLOR white] FILMES DUBLADOS[/COLOR]
+[COLOR red]●[/COLOR][COLOR white]TODO O CRÉDITO A redecanais.cloud[/COLOR]</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvYQqqNYmOV4SLu4s8iwdD3W6Y-UF4wqhJw&usqp=CAU.jpg</fanart>
 </channel>
 <channel>
